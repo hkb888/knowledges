@@ -1,0 +1,1 @@
+java -cp /root/skywalking/apache-skywalking-apm-bin/oap-libs/h2-1.4.196.jar org.h2.tools.Server -web -webPort 8888 -webAllowOthers -tcp -tcpPort 19200 -tcpAllowOthers
